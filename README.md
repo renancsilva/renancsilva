@@ -50,5 +50,5 @@ Nos últimos anos, tenho focado na adoção de práticas DevOps para construir a
 
 ## Contato
 <!-- Adicione seus links abaixo -->
-* **LinkedIn:** [linkedin.com/in/seuperfil](https://www.linkedin.com/in/renan-silva-aaa946226/)
-* **E-mail:** [seu-email@dominio.com](mailto:renancsilva30@outlook.com)
+* **LinkedIn:** [linkedin.com/in/renan-silva-aaa946226/](https://www.linkedin.com/in/renan-silva-aaa946226/)
+* **E-mail:** [renancsilva30@outlook.com](mailto:renancsilva30@outlook.com)
